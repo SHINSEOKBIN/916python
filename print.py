@@ -1,0 +1,6 @@
+print("Hello world!")
+print(10)
+print(10+3+10)
+print(1,2,3)
+print('a','b','c')
+print("Hello" +" "+ "world!")
